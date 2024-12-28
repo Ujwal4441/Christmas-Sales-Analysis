@@ -47,6 +47,9 @@ o	Publish the report to the Power BI Service if sharing is required.
 ## Chrsitmas Sales & Trends Pbix File
 https://drive.google.com/drive/folders/1vq2pEbt-hHtOEgzsMDfLYMwlD5Tf-f00?usp=sharing
 
+## Explanation Video
+https://drive.google.com/drive/folders/1vq2pEbt-hHtOEgzsMDfLYMwlD5Tf-f00?usp=sharing
+
 
 ## ScreenShots
 ![Screenshot 2024-12-28 143021](https://github.com/user-attachments/assets/1ae47320-8216-43ce-bdad-2128904076f8)
