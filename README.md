@@ -45,7 +45,7 @@ o	Validate all visuals and calculations.
 o	Publish the report to the Power BI Service if sharing is required.
 
 ## Chrsitmas Sales & Trends Pbix File
-[Christmas Sales and Trends.zip](https://github.com/user-attachments/files/18265631/Christmas.Sales.and.Trends.zip)
+https://drive.google.com/drive/folders/1vq2pEbt-hHtOEgzsMDfLYMwlD5Tf-f00?usp=sharing
 
 
 ## ScreenShots
