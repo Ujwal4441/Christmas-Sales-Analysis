@@ -3,6 +3,7 @@ This Power BI project analyses Christmas sales and trends from historical data t
 
 ## Project Description
 This Power BI project analyses Christmas sales and trends from historical data to provide actionable insights for better decision-making during the holiday season. The project focuses on key metrics such as:
+
 •	Monthly Sales Trends: Visualizing monthly sales performance across different categories.
 
 •	Sales by Category and Order Type: Evaluating how product categories and order types (online or in-store) contribute to total sales.
